@@ -6,11 +6,7 @@ The application provides secure user authentication and an interactive task mana
 
 ## 🌐 Live Demo
 
-[Add your deployed website URL here]
-
-## 📸 Project Preview
-
-[Add your project screenshots here]
+https://shimmering-gaufre-9749f0.netlify.app/
 
 ## ✨ Features
 
