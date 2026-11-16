@@ -99,7 +99,7 @@ Follow these steps to run FocusFlow on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Nikhil-014/FocusFlow
 ```
 
 ### 2. Navigate to the Project Folder
@@ -136,7 +136,7 @@ VITE_SUPABASE_PUBLISHABLE_KEY=your_supabase_publishable_key
 
 Make sure the variable names match those used in your `supabaseClient.js` file.
 
-**Security:** Never upload secret API keys or passwords to GitHub.
+Security: Never upload secret API keys or passwords to GitHub.
 
 ### 5. Start the Development Server
 
